@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "14.17.1",
+  "description": "simple web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mns1242/intro-to-nodejs.git"
+  },
+  "author": "mohammed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mns1242/intro-to-nodejs/issues"
+  },
+  "homepage": "https://github.com/mns1242/intro-to-nodejs#readme"
+}
